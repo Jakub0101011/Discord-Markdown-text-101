@@ -3,49 +3,49 @@
 Want to inject some flavor into your everyday text chat? You're in luck! Discord uses Markdown, a simple plain text formatting system that'll help you make your sentences stand out. Here's how to do it! Just add a few characters before & after your desired text to change your text! I'll show you some examples...
 
 ## Sweet Styles
-*Italics* **-** \*italics* **or** \_italics\_
+Italics **-** `*italics*` **or** `_italics_`
 
 ![italics](https://user-images.githubusercontent.com/94227436/159767025-397248b2-3088-467a-b656-61f33901fb93.png)
 
 ---
 
-__*Underline italics*__ **-** \__\*underline italics*__
+__*Underline italics*__ **-** `__*underline italics*__`
 
 ![Underline-italics](https://user-images.githubusercontent.com/94227436/159767485-76534216-a440-40f0-b10f-65575e16e163.png)
 
 ---
 
-**Bold** **-** \*\*bold**
+**Bold** **-** `**bold**`
 
 ![Bold](https://user-images.githubusercontent.com/94227436/159767755-3b42b9a6-3a66-4e1c-9b6a-c93c19330983.png)
 
 ---
 
-__**Underline bold**__ **-** \__\*\*underline bold**__
+__**Underline bold**__ **-** `__**underline bold**__`
 
 ![Underline-bold](https://user-images.githubusercontent.com/94227436/159767879-c5536603-d37c-47ac-97a4-a2e5cdf20f8d.png)
 
 ---
 
-***Bold Italics*** **-** \*\*\*bold italics***
+***Bold Italics*** **-** `***bold italics***`
 
 ![Bold-Italics](https://user-images.githubusercontent.com/94227436/159768035-b1a805ce-eceb-4339-ae71-eef1bc4418a2.png)
 
 ---
 
-__***underline bold italics***__	**-** \__\*\*\*underline bold italics***__
+__***underline bold italics***__	**-** `__***underline bold italics***__`
 
 ![underline-bold-italics](https://user-images.githubusercontent.com/94227436/159768126-a7071935-c4b2-4642-b48c-b9868a47d04c.png)
 
 ---
 
-__Underline__	**-** \_\_underline__
+__Underline__	**-** `__underline__`
 
 ![Underline](https://user-images.githubusercontent.com/94227436/159768210-e99a1c25-b5b0-4aed-9f20-466ff603a9a9.png)
 
 ---
 
-~~Strikethrough~~	**-** \~\~Strikethrough~~
+~~Strikethrough~~	**-** `~~Strikethrough~~`
 
 ![Strikethrough](https://user-images.githubusercontent.com/94227436/159768334-519db15e-00aa-4ea3-b38c-0874d0f78d09.png)
 
@@ -63,6 +63,14 @@ The syntax to use Block Quotes is `>` or `>>>` followed by a space.
 
 ![multi-line->>>-block](https://user-images.githubusercontent.com/94227436/159770282-2945ed41-ccd6-4ce5-a4fb-42e14ba10ef8.png)
 
+## Spoiler Tag
+If you want to write a “spoiler” or something everyone in your channel shouldn’t see immediately (unless they choose to remove the spoiler block), then you can use the Discord spoiler tag.
+
+You can create spoiler text like so:
+
+![spoiler-text](https://user-images.githubusercontent.com/94227436/159988441-c7aa1a3d-c4a9-462c-8277-10ed82a771ba.png)
+
+
 ## Code Blocks
 Discord also supports code blocks as well.  You can make your own code blocks by wrapping your text in backticks (\`)
 
@@ -74,7 +82,7 @@ You can also use three backticks (\`\`\`) to create multiline code blocks, like 
 
 ## Syntax Highlighting
 
-If you really want to spruce up your code blocks, you can denote a specific language for **syntax highlighting**, by typing the name of the language you want the code block to expect right after the first three backticks beginning your code block. An examples...
+If you really want to spruce up your code blocks, you can denote a specific language for **syntax highlighting**, by typing the name of the language you want the code block to expect right after the first three backticks beginning your code block.
 
 There are many different languages in place of Markdown that Discord's syntax highlighting support. Each different language has its own approach to highlight-able syntax. For a full list: https://highlightjs.org/static/demo/. Note that you won't be able to view syntax highlighting on the mobile app.
 
@@ -102,7 +110,43 @@ There are many different languages in place of Markdown that Discord's syntax hi
 
 ---
 
+`Cpp (c++)`
+
+![cpp](https://user-images.githubusercontent.com/94227436/159984869-88379c2a-67e3-4bd0-a8f4-2eaa51a21593.png)
+
+---
+
+`Json`
+
+![json](https://user-images.githubusercontent.com/94227436/159985266-09c062b5-79d3-48eb-86c2-0a74d215e126.png)
+
+---
+
+`Python`
+
+![python](https://user-images.githubusercontent.com/94227436/159985833-1ad60f73-00ee-4d72-a9fc-6bf93a2e034a.png)
+
+---
+
+`Xml`
+
+![xml](https://user-images.githubusercontent.com/94227436/159986327-2c310699-abd7-4927-a013-4ecfa8486824.png)
+
+---
+
+`Autohotkey`
+
+![ahk](https://user-images.githubusercontent.com/94227436/159987776-667bb3b2-1d82-41a7-a1f2-b67a2674072b.png)
+
+---
+
+`Yaml`
+
+![yaml](https://user-images.githubusercontent.com/94227436/159987681-ca16f3d1-2e08-4151-8ba5-73e6d39c8797.png)
+
+---
+
 ## Announcements of the guide
-You see it on 03/23/2022 and you think it's the end of the guide?, then you are wrong, it will be further developed every next update in the application!.
+You see it on 25/03/2022 and you think it's the end of the guide?, then you are wrong, it will be further developed every next update in the application!.
 
 If you have any questions or want to get in contact with me, you can add `pokczamp#0320` on discord. <img src="https://emoji.gg/assets/emoji/2330-melted-flushed.png" width="40px" height="20px"></img>
