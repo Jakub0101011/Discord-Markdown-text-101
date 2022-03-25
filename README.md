@@ -88,7 +88,7 @@ There are many different languages in place of Markdown that Discord's syntax hi
 
 `CSS`
 
-![css](https://user-images.githubusercontent.com/94227436/159772455-61ec44c7-369d-4497-b9e4-4a707f9f3e1e.png)
+![css](https://user-images.githubusercontent.com/94227436/160165522-d7c07839-9491-4097-b085-5e388b0d264f.png)
 
 ---
 
@@ -113,6 +113,12 @@ There are many different languages in place of Markdown that Discord's syntax hi
 `Cpp (c++)`
 
 ![cpp](https://user-images.githubusercontent.com/94227436/159984869-88379c2a-67e3-4bd0-a8f4-2eaa51a21593.png)
+
+---
+
+`Cs (C#)`
+
+![cs](https://user-images.githubusercontent.com/94227436/160164627-3f4da3a4-ed5c-4d0b-8370-d5b3319b2bb0.png)
 
 ---
 
@@ -146,7 +152,67 @@ There are many different languages in place of Markdown that Discord's syntax hi
 
 ---
 
+`Fix`
+
+![fix](https://user-images.githubusercontent.com/94227436/160166051-ac8774b5-7345-40dd-9971-c5d123c38d37.png)
+
+---
+
+`Arm`
+
+![arm](https://user-images.githubusercontent.com/94227436/160166640-e9e78009-c549-4cd4-afb0-f82bb4783015.png)
+
+---
+
+`Ini`
+
+![ini](https://user-images.githubusercontent.com/94227436/160167009-09f86a7f-3a01-48be-983b-ea128f68225d.png)
+
+---
+
+`Md (markdown)`
+
+![md](https://user-images.githubusercontent.com/94227436/160168054-ee006641-9c57-4508-87a9-c949f3f8756e.png)
+
+---
+
+`Xl`
+
+![xl](https://user-images.githubusercontent.com/94227436/160168901-358f14c7-5965-4cc9-ab69-bbebb4778589.png)
+
+---
+
+`Prolog`
+
+![prolog](https://user-images.githubusercontent.com/94227436/160169206-069d40a2-cf8d-4035-8b3f-e1684ae0c61e.png)
+
+---
+
+`Glsl`
+
+![glsl](https://user-images.githubusercontent.com/94227436/160169411-4aa15bb4-7816-4490-b0d5-c30415069b41.png)
+
+---
+
+`CoffeeScript`
+
+![coffeescript](https://user-images.githubusercontent.com/94227436/160170176-5b337674-620b-4d4e-a7ab-e96b301ed233.png)
+
+---
+
+`Elixir`
+
+![elixir](https://user-images.githubusercontent.com/94227436/160173103-6316c8fd-12b7-4519-b399-9bf3fbeed609.png)
+
+---
+
+`Apache`
+
+![apache](https://user-images.githubusercontent.com/94227436/160173619-7f119e2e-a50d-410f-b9ec-4d8f138a6e21.png)
+
+---
+
 ## Announcements of the guide
-You see it on 25/03/2022 and you think it's the end of the guide?, then you are wrong, it will be further developed every next update in the application!.
+You see it on 26/03/2022 and you think it's the end of the guide?, then you are wrong, it will be further developed every next update in the application!.
 
 If you have any questions or want to get in contact with me, you can add `pokczamp#0320` on discord. <img src="https://emoji.gg/assets/emoji/2330-melted-flushed.png" width="40px" height="20px"></img>
