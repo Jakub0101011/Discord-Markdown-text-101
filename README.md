@@ -213,6 +213,6 @@ There are many different languages in place of Markdown that Discord's syntax hi
 ---
 
 ## Announcements of the guide
-You see it on 26/03/2022 and you think it's the end of the guide?, then you are wrong, it will be further developed every next update in the application!.
+The guide will be further developed with each new update in discord!.
 
 If you have any questions or want to get in contact with me, you can add `pokczamp#0320` on discord. <img src="https://emoji.gg/assets/emoji/2330-melted-flushed.png" width="40px" height="20px"></img>
