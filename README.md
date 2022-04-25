@@ -212,6 +212,12 @@ There are many different languages in place of Markdown that Discord's syntax hi
 
 ---
 
+`Bat`
+
+![bat](https://user-images.githubusercontent.com/94227436/165154446-a9ab2437-fe69-41eb-8b68-2b4158bd562d.png)
+
+---
+
 ## Announcements of the guide
 The guide will be further developed with each new update in discord!.
 
