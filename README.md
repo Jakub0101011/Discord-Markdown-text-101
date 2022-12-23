@@ -221,4 +221,4 @@ There are many different languages in place of Markdown that Discord's syntax hi
 ## Announcements of the guide
 The guide will be further developed with each new update in discord!.
 
-If you have any questions or want to get in contact with me, you can add `Джейкоб;#0320` on discord. <img src="https://emoji.gg/assets/emoji/2330-melted-flushed.png" width="40px" height="20px"></img>
+If you have any questions or want to get in contact with me, you can add `Jakub0101011;#0320` on discord. <img src="https://emoji.gg/assets/emoji/2330-melted-flushed.png" width="40px" height="20px"></img>
